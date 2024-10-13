@@ -75,4 +75,11 @@ Follow these steps to successfully run the project:
 
 ## Dashboard with Streamlit:
 
+https://github.com/IsmailDr13f/Sentiment-analysis--streaming-Twitter-data-Kafka-Spark-Python-mongodb/assets/128002689/86ea0714-164c-479f-a623-8c2ee1dfcbd7
+
+## Project Created By:
+
+- **Amzil Ammar**
+- **Drief Ismail**
+- **Arichi Fatimazzohra**
 
